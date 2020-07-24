@@ -5,7 +5,7 @@
 Hello guys I bulit this Simpsons Classifier after being inspired from the VGG architecture (the repeated 3x3 convolution)
 
 
-
+![Model Architecture]("https://github.com/siddhantjain07/SimpsonClassifierVGGM/blob/master/additional%20pictures/arch.png")
 
 
 Model Architecture detailed overview with parameters
